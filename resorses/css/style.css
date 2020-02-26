@@ -1,0 +1,68 @@
+
+
+
+
+  li a:hover {
+    color: white;
+  }
+
+#name{
+  font-family: fantasy;
+  text-align: center;
+  color:#4645D8 ;
+  font-size:90px;
+
+}
+#name1{
+  font-family: fantasy;
+  text-align: center;
+  color:#4645D8 ;
+  font-size:70px;
+} 
+
+
+
+h3 {
+  
+  font-family: fantasy;text-align: center; color:#4645D8;
+
+}
+
+#contact
+{
+font-family:Century;font-size:20px;text-shadow:initial; 
+color:#4645D8 ; text-align: right;
+}
+  p{
+    font-family: 'Times New Roman', Times, serif;text-align: justify;
+  }
+
+ h1{
+  font-family: fantasy;text-align: right; color:#4645D8;
+ }
+ #pargraph1{
+  font-family: 'Times New Roman', Times, serif;text-align: justify;
+  font-size: 25px;
+
+ }
+ #pargraph2{
+  font-family: 'Times New Roman', Times, serif;text-align: justify;
+  font-size: 25px;
+
+ }
+
+ #pdog{
+  font-family: 'Times New Roman', Times, serif;text-align: justify;
+  font-size: 20px;
+ }
+
+ #pdog2{
+  font-family: 'Times New Roman', Times, serif;text-align: justify;
+  font-size: 20px;
+ }
+
+ h4{
+  font-family: fantasy;text-align: right; color:#CB4335;
+  text-align: center;
+  
+ }
